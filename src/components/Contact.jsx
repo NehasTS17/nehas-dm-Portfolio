@@ -108,9 +108,9 @@ const Contact = () => {
     },
     {
       label: 'Website',
-      value: 'https://athira-sb-personal-portfolio.vercel.app/',
+      value: 'https://nehas-dm-portfolio.vercel.app/',
       icon: website,
-      href: 'https://athira-sb-personal-portfolio.vercel.app/'
+      href: 'https://nehas-dm-portfolio.vercel.app/'
     },
     {
       label: 'LinkedIn',
