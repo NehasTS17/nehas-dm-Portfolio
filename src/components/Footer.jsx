@@ -76,7 +76,7 @@ const Footer = () => {
             <ul className="space-y-2">
               {[
                 { label: 'Mail', value: 'negae13@gmail.com', icon: mail, href: 'mailto:negae13@gmail.com' },
-                { label: 'Website', value: 'Portfolio Website', icon: website, href: 'https://athira-sb-personal-portfolio.vercel.app/' },
+                { label: 'Website', value: 'Portfolio Website', icon: website, href: 'https://nehas-dm-portfolio.vercel.app/' },
                 { label: 'LinkedIn', value: 'LinkedIn Profile', icon: linkedin, href: 'https://www.linkedin.com/in/nehas-dm/' },
               ].map((contact) => (
                 <li key={contact.label}>
